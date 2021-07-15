@@ -1,6 +1,6 @@
 # analise-covid
 
-Projeto via Jupyter Notebook da análise exploratória dos dados de casos confirmados e óbitos pela covid 19 até julho/2021.
+Projeto via Jupyter Notebook de análise exploratória dos dados de casos confirmados e óbitos pela covid 19 até julho/2021.
 
 Este foi o projeto final do curso Python Basics referente à segunda fase do bootcamp Santander Coders Ciência de Dados, com as aulas ministradas pela Let's Code.
 
