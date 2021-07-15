@@ -4,4 +4,8 @@ Projeto via Jupyter Notebook da análise exploratória dos dados de casos confir
 
 Este foi o projeto final do curso Python Basics referente à segunda fase do bootcamp Santander Coders Ciência de Dados, com as aulas ministradas pela Let's Code.
 
+Acesse o arquivo .ipyn para ver como o projeto foi realizado.
+
+<h2>Veja abaixo o resultado do projeto:</h2>
+
 <img src = 'https://github.com/brunocs25/analise-covid/blob/main/meu-primeiro-grafico.png?raw=true'> </img>
