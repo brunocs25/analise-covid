@@ -7,7 +7,7 @@ Este foi o projeto final do curso Python Basics referente à segunda fase do boo
 Acesse os arquivo .ipynb para ver como o projeto foi realizado. 
 
 -  Versão 1: brcovid.ipynb
--  Versão 2: brcovid.ipynb
+-  Versão 2: brcovid_pd.ipynb
 
 Obs.: A versão 2 foi realizada com o auxílio de pandas, matplotlib e numpy, com o objetivo de reduzir significativamente a quantidade de linhas de código.
 
